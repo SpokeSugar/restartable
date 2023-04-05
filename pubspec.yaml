@@ -1,7 +1,7 @@
 name: restartable
 description: Restartable Widget for FLutter.
 version: 0.0.1
-homepage:
+homepage: https://github.com/SpokeSugar/restartable/
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
